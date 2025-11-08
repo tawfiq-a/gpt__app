@@ -1,0 +1,5 @@
+package com.mir.app10
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
